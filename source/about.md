@@ -5,11 +5,17 @@ layout: page
 
 # About DocBuilds
 
-DocBuilds is a leaderboard of the top open-source static site generators. It's run by [BitBalloon](https://www.bitballoon.com), a hosting service for static websites, as a way to promote a static approach to building websites.
+DocBuilds is a leaderboard of the top open-source static documentation generators. It's run by [Plaindocs](https://www.plaindocs.com), creator of quality API documentation.
 
-The site itself is built with [Middleman](http://middlemanapp.com/). Every day [Factor.io](http://factor.io/) builds and deploys the site. The source-code is available on [Github](https://github.com/plaindocs/docbuilds) and you're more than welcome to contribute as long as you [follow the rules](/rules.html).
+The site is a clone of StaticGen. DocBuilds source-code is available on [Github](https://github.com/plaindocs/docbuilds) and you're more than welcome to contribute as long as you [follow the rules](/rules.html). StaticGen source-code is also available on [Github](https://github.com/bitballoon/staticgen).
 
-### Static Site Generators
+## About StaticGen
+
+StaticGen is a leaderboard of the top open-source static site generators. It's run by [BitBalloon](https://www.bitballoon.com), a hosting service for static websites, as a way to promote a static approach to building websites.
+
+The site itself is built with [Middleman](http://middlemanapp.com/). Every day [Factor.io](http://factor.io/) builds and deploys the site. The source-code is available on [Github](https://github.com/bitballoon/staticgen) and you're more than welcome to contribute as long as you [follow the rules](/rules.html).
+
+## Static Site Generators
 
 People sometimes ask if static sites make sense for anything beyond a one-pager. This leaderboard highlights the top open source projects, in many different languages, that make static sites not only viable, but an attractive option for creating sophisticated websites!
 
