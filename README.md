@@ -36,7 +36,7 @@ Then middleman will use the Gist you specified to archive stats (stars, forks an
 
 ## Plaindocs
 
-DocBuilds is built and maintained by [Plaindocs](https://www.plaindocs.com), creator of quality API documentation.
+DocBuilds is built and maintained by [Plaindocs](http://www.plaindocs.com), creator of quality API documentation.
 
 ## License
 This project is licensed under the [MIT license](http://opensource.org/licenses/MIT).

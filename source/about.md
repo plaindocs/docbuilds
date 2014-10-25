@@ -5,9 +5,9 @@ layout: page
 
 # About DocBuilds
 
-DocBuilds is a leaderboard of the top open-source static documentation generators. It's run by [Plaindocs](https://www.plaindocs.com), creator of quality API documentation.
+DocBuilds is a leaderboard of the top open-source static documentation generators. It's run by [Plaindocs](http://www.plaindocs.com), creator of quality API documentation.
 
-The site is a clone of StaticGen. DocBuilds source-code is available on [Github](https://github.com/plaindocs/docbuilds) and you're more than welcome to contribute as long as you [follow the rules](/rules.html). StaticGen source-code is also available on [Github](https://github.com/bitballoon/staticgen).
+The site is a clone of StaticGen. DocBuilds source-code is available on [Github](http://github.com/plaindocs/docbuilds) and you're more than welcome to contribute as long as you [follow the rules](/rules.html). StaticGen source-code is also available on [Github](https://github.com/bitballoon/staticgen).
 
 ## About StaticGen
 
