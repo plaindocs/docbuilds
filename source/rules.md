@@ -1,9 +1,9 @@
 ---
-title: The Rules
+title: Guidelines
 layout: page
 ---
 
-# The Rules
+# Guidelines
 
 Everybody is welcome to contribute to DocBuilds, just fork the [Github repo](https://github.com/plaindocs/docbuilds) and send a pull request.
 Each static documentation generator is a markdown file in the `source/projects` directory.
