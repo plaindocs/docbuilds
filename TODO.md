@@ -5,4 +5,7 @@
 * millermedeiros/mdoc
 * jeromegn/DocumentUp
 * justinwalsh/daux.io
-* tomchristie/mkdocs
+* chutsu/ditto
+* rstacruz/flatdoc
+* progrium/viewdocs
+* sjl/d
