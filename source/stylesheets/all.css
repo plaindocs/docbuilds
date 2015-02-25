@@ -62,11 +62,11 @@ pre {
 }
 
 .hero {
-  background: #4f3b5b;
-  background: -webkit-radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
-  background:    -moz-radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
-  background:     -ms-radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
-  background: radial-gradient(ellipse at center, #4f3b5b 0%,#231733 100%);
+  background: #2581bc;
+  background: -webkit-radial-gradient(ellipse at center, #2581bc 0%,#2c3e50 100%);
+  background:    -moz-radial-gradient(ellipse at center, #2581bc 0%,#2c3e50 100%);
+  background:     -ms-radial-gradient(ellipse at center, #2581bc 0%,#2c3e50 100%);
+  background: radial-gradient(ellipse at center, #2581bc 0%,#2c3e50 100%);
   text-align: center;
   padding: 29px 0;
 }
@@ -76,6 +76,7 @@ pre {
 .hero h2 {
   margin-top: 0;
   color: #efefef;
+	line-height:1;
 }
 .hero a.logo, .hero a.logo:link, .hero a.logo:active, .hero a.logo:hover {
   color: #fff;
@@ -515,3 +516,45 @@ pre {
   .project:nth-of-type(n) { clear: none; }
   .project:nth-of-type(4n+1) { clear: both; }
 }
+
+/* 2014-10-25: KS   */
+body{background-image:none;background-color:#F3F4F5;color:#2c3e50}
+a,a:link,a:active,a:visited,a:hover{color:#2581bc;text-decoration:underline}
+.sheet ul{margin:10px 20px}
+#share-button-top{display:none !important}
+.hero{padding:10px 0 !important;background-color:#2c3e50;background-image:url(../images/bridge.png);background-size:cover}
+.hero h1{font-weight:400;margin-top:0px;text-shadow:1px 1px 2px rgba(0,0,0,0.4)}
+.hero h2{font-size:36px;font-weight:400;text-shadow:1px 1px 2px rgba(0,0,0,0.4)}
+.navbar{background:#2c3e50;background:-moz-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:-webkit-gradient(linear,left top,left bottom,color-stop(1%,#1a242f),color-stop(98%,#2c3e50));background:-webkit-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:-o-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:-ms-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:linear-gradient(to bottom,#1a242f 1%,#2c3e50 98%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1a242f',endColorstr='#2c3e50',GradientType=0);border:none}
+.right-menu > ul > li > a{color:#FFF;display:inline-block;padding:5px 10px}
+.right-menu > ul > li > a:hover{color:#FFF;text-decoration:none} 
+.footer{clear:both;background:#2c3e50;background:-moz-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:-webkit-gradient(linear,left top,left bottom,color-stop(1%,#1a242f),color-stop(98%,#2c3e50));background:-webkit-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:-o-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:-ms-linear-gradient(top,#1a242f 1%,#2c3e50 98%);background:linear-gradient(to bottom,#1a242f 1%,#2c3e50 98%);filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#1a242f',endColorstr='#2c3e50',GradientType=0);margin:40px 0 0 0;padding:20px 46px 23px}
+.footer h3{font-size:24px;font-weight:100}
+.footer h3 a{font-weight:400}
+.footer h3 a:hover{text-decoration:none;font-weight:400}
+.sheet h1{font-size:44px;border-bottom:1px solid #2c3e50}
+.sheet h2{font-size:36px}
+.sheet h3{font-size:28px}
+.sheet h4{font-size:24px}
+
+
+.dropdown{background:#0e141a;border:1px solid #000;border-radius:3px;-webkit-box-shadow:0 1px 1px rgba(0,0,0,0.08);box-shadow:0 1px 1px rgba(0,0,0,0.08)}
+.dropdown:before,.dropdown:after{border:4px dashed;border-color:#888888 transparent}
+.dropdown:before{border-bottom-style:solid;border-top:none}
+.dropdown:after{border-top-style:solid;border-bottom:none}
+.dropdown-select{color:#2581bc;text-shadow:0 1px #000;background:#f2f2f2;background:rgba(0,0,0,0) !important;border:0;border-radius:0}
+.dropdown-select:focus{color:#394349;outline:none}
+.dropdown-select > option{text-shadow:none;background:#000;border-radius:3px}
+
+.navbar{width:100%}
+
+@media all and (max-width: 499px) {
+	.navbar .container{padding:10px 5px;float:left}
+	.navbar .container .dropdown{display:block;margin:0 auto 10px auto}
+	.hero h1{font-size:48px}
+	.hero h2{font-size:24px}
+	.right-menu{width:100%}
+	.right-menu ul li:first-child{float:left}
+	.right-menu ul li:last-child{float:right}
+}
+
