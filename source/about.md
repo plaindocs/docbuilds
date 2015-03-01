@@ -5,22 +5,10 @@ layout: page
 
 # About DocBuilds
 
-DocBuilds is a leaderboard of the top open-source static documentation generators. It's run by [Plaindocs](http://www.plaindocs.com), creator of quality API documentation. It was partially inspired by a conversation with [@lucapette](https://twitter.com/lucapette).
+DocBuilds is a leaderboard of open-source documentation generators. It's run by [Plaindocs](http://www.plaindocs.com), creator of quality API documentation. It was partially inspired by a conversation with [@lucapette](https://twitter.com/lucapette).
 
-The site is a clone of StaticGen. DocBuilds source-code is available on [Github](http://github.com/plaindocs/docbuilds) and you're more than welcome to contribute as long as you [follow the guidelines](/guidelines.html). StaticGen source-code is also available on [Github](https://github.com/bitballoon/staticgen).
+DocBuilds source-code is available on [Github](http://github.com/plaindocs/docbuilds) and you're more than welcome to contribute as long as you [follow the guidelines](/guidelines.html). DocBuilds is built with [Middleman](http://middlemanapp.com/) and started as a clone of [StaticGen](https://www.staticgen.com).
 
 ## About StaticGen
 
-StaticGen is a leaderboard of the top open-source static site generators. It's run by [BitBalloon](https://www.bitballoon.com), a hosting service for static websites, as a way to promote a static approach to building websites.
-
-The site itself is built with [Middleman](http://middlemanapp.com/). The source-code is available on [Github](https://github.com/bitballoon/staticgen).
-
-## Static Site Generators
-
-People sometimes ask if static sites make sense for anything beyond a one-pager. This leaderboard highlights the top open source projects, in many different languages, that make static sites not only viable, but an attractive option for creating sophisticated websites!
-
-The typical CMS driven website works by building each page on-demand, fetching content from a database and running it through a template engine. This means each page is assembled from templates and content on each request to the server.
-
-For most sites this is completely unnecessary overhead and only ads complexity, performance problems and security issues. After all, by far the most websites only change when the content authors or their design team makes changes.
-
-A **Static Site Generator** takes a different approach and generate all the pages of the website once when there's actually changes to the site. This means there's no moving parts in the deployed website. Caching gets much easier, performance goes up and static sites are far more secure.
+[StaticGen](https://www.staticgen.com) is a leaderboard of the top open-source static site generators. It's run by [BitBalloon](https://www.bitballoon.com), a hosting service for static websites, as a way to promote a static approach to building websites. The source-code is available on [Github](https://github.com/bitballoon/staticgen).
