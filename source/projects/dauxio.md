@@ -8,7 +8,7 @@ templates: PHP
 description: Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly.
 ---
 
-Daux.io is an documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. See the [daux.io website](http://daux.io) for more information.
+Daux.io is a documentation generator that uses a simple folder structure and Markdown files to create custom documentation on the fly. It helps you create great looking documentation in a developer friendly way. See the [daux.io website](http://daux.io) for more information.
 
 ## Features
 
