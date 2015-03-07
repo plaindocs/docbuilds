@@ -1,5 +1,5 @@
 ---
-title: Daux.io
+title: Slate
 repo: tripit/slate
 homepage: http://tripit.github.io/slate/
 language: JavaScript, Ruby
