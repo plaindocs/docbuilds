@@ -1,7 +1,7 @@
 ---
 title: Slate
-repo: tripit/slate
-homepage: http://tripit.github.io/slate/
+repo: lord/slate
+homepage: http://lord.github.io/slate/
 language: JavaScript, Ruby
 license: Apache License, Version 2.0
 
